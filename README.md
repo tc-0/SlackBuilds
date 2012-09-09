@@ -1,6 +1,7 @@
 SlackBuilds
 ===========
 
-My SlackBuild scripts. Well, currently it's only one.
+My SlackBuild scripts.
 
 * google-go-lang
+* cmus using current HEAD of (master branch)[http://gitorious.org/cmus/cmus/commits/master]
